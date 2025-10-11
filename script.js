@@ -47,6 +47,7 @@ function resetState() {
     }
 }
 
+//4: Select sepecific Q-answer
 function selecAnswer(e) {
     const selectedBtn = e.target;
     const isCorrect = selectedBtn.dataset.correct === "true";
