@@ -75,7 +75,7 @@ nextBtn.addEventListener("click", () => {
     }
 })
 
-
+//5: Show total Score and Play Again.
 function showScore() {
     resetState();
     questionElement.innerHTML = `You Scored ${score} out of ${questions.length}`;
