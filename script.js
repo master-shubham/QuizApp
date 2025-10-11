@@ -39,6 +39,7 @@ function showQuestion() {
     })
 }
 
+//3:Reset all the previous quastion
 function resetState() {
     nextBtn.style.display = "none";
     while (ansBtns.firstChild) {
