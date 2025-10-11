@@ -7,6 +7,7 @@ console.log(questions);
 let currentQIndex = 0;
 let score = 0;
 
+//1:Start Quiz
 function startQuiz() {
     currentQIndex = 0;
     score = 0;
@@ -14,6 +15,7 @@ function startQuiz() {
     showQuestion();
 }
 
+//2:Show All Quastion one by one
 function showQuestion() {
 
     resetState();
