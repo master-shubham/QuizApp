@@ -83,7 +83,7 @@ function showScore() {
     nextBtn.style.display = "block";
 }
 
-
+//5:Move to next quastion
 function handleNextButton() {
     currentQIndex++;
     if (currentQIndex < questions.length) {
