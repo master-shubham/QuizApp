@@ -1,0 +1,24 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/master-shubham/QuizApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/master-shubham/QuizApp/issues"
+  },
+  "homepage": "https://github.com/master-shubham/QuizApp#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}

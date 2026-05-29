@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript compilation output
+dist/
+out/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
